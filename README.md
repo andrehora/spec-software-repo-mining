@@ -1,6 +1,6 @@
-# Mineração de Repositórios de Software
+# TP: Mineração de Repositórios de Software
 
-## Objetivo
+## Descrição
 
 Desenvolver uma ferramenta de linha de comando que identifique problemas de manutenção de software por meio da mineração de repositórios
 
