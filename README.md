@@ -16,7 +16,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 
 - Apresentação dos resultados: métricas, visualizações, etc.
 
-## Tools
+## Ferramentas
 
 ### Git
 - pydriller: Python Framework to analyse Git repositories (https://github.com/ishepard/pydriller)
@@ -43,5 +43,6 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 
 - pmd: An extensible multilanguage static code analyzer (https://github.com/pmd/pmd)
 - lizard: Code complexity analyser (https://github.com/terryyin/lizard)
+- cloc: Line counter (https://github.com/AlDanial/cloc)
 - bandit: Find common security issues in Python code (https://github.com/PyCQA/bandit)
 - awesome-msr: https://github.com/dspinellis/awesome-msr
