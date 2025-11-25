@@ -19,10 +19,13 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 ## Ferramentas
 
 ### Git
+
 - pydriller: Python Framework to analyse Git repositories (https://github.com/ishepard/pydriller)
 - GitPython: Python library used to interact with Git repositories (https://github.com/gitpython-developers/GitPython)
+- JGit: Java implementation of Git (https://github.com/eclipse-jgit/jgit)
 
 ### GitHub
+
 - PyGithub: Typed interactions with the GitHub API (https://github.com/PyGithub/PyGithub)
 - GitHub API: https://docs.github.com/en/rest: 
 - GitHub Search tool (GHS): https://seart-ghs.si.usi.ch
@@ -36,13 +39,18 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 
 ### Parsers
 
-- tree-sitter: multilanguage parsing library (https://github.com/tree-sitter/tree-sitter)
-- python ast: Python parsing library (https://docs.python.org/3/library/ast.html)
+- tree-sitter: multilanguage parsing (https://github.com/tree-sitter/tree-sitter)
+- python ast: Python parsing (https://docs.python.org/3/library/ast.html)
+- javaparser: Java parsing (https://github.com/javaparser/javaparser)
+- spoon: Java parsing (https://github.com/INRIA/spoon)
+- babel parser: JavaScript parsing (https://babeljs.io/docs/babel-parser)
 
-### Misc
+### Metrics
 
-- pmd: An extensible multilanguage static code analyzer (https://github.com/pmd/pmd)
 - lizard: Code complexity analyser (https://github.com/terryyin/lizard)
 - cloc: Line counter (https://github.com/AlDanial/cloc)
 - bandit: Find common security issues in Python code (https://github.com/PyCQA/bandit)
+- radon: Various code metrics for Python code (https://github.com/rubik/radon)
+- pmd: An extensible multilanguage static code analyzer (https://github.com/pmd/pmd)
+- flake8: Python code quality (https://github.com/PyCQA/flake8)
 - awesome-msr: https://github.com/dspinellis/awesome-msr
