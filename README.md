@@ -45,7 +45,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 - spoon: Java parsing (https://github.com/INRIA/spoon)
 - babel parser: JavaScript parsing (https://babeljs.io/docs/babel-parser)
 
-## Git-based tools
+### Git-based tools
 
 - GitEvo: Code evolution analysis for Git repositories (https://github.com/andrehora/gitevo)
 - CodeShovel: Git history navigation for dedicated methods (https://github.com/ataraxie/codeshovel)
