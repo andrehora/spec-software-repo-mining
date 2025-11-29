@@ -30,7 +30,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 - GitHub API: https://docs.github.com/en/rest: 
 - GitHub Search tool (GHS): https://seart-ghs.si.usi.ch
 
-### Building Command Line Interfaces (CLIs)
+### Command Line Interfaces (CLIs)
 
 - typer: https://github.com/fastapi/typer
 - click: https://github.com/pallets/click
@@ -45,7 +45,12 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 - spoon: Java parsing (https://github.com/INRIA/spoon)
 - babel parser: JavaScript parsing (https://babeljs.io/docs/babel-parser)
 
-### Metrics
+## Git-based tools
+
+- GitEvo: Code evolution analysis for Git repositories (https://github.com/andrehora/gitevo)
+- CodeShovel: Git history navigation for dedicated methods (https://github.com/ataraxie/codeshovel)
+
+### Misc
 
 - lizard: Code complexity analyser (https://github.com/terryyin/lizard)
 - cloc: Line counter (https://github.com/AlDanial/cloc)
