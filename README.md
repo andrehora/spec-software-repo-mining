@@ -16,7 +16,7 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 
 - Apresentação dos resultados: métricas, visualizações, etc.
 
-## Ferramentas
+## Tools
 
 ### Git
 
@@ -45,17 +45,28 @@ Desenvolver uma ferramenta de linha de comando que identifique problemas de manu
 - spoon: Java parsing (https://github.com/INRIA/spoon)
 - babel parser: JavaScript parsing (https://babeljs.io/docs/babel-parser)
 
-### Git-based tools
+### Git history
 
 - GitEvo: Code evolution analysis for Git repositories (https://github.com/andrehora/gitevo)
 - CodeShovel: Git history navigation for dedicated methods (https://github.com/ataraxie/codeshovel)
+- APIDiff: Detection of API breaking changes in Java (https://github.com/aserg-ufmg/apidiff)
+- RefactoringMiner: Detection of refactorings in Java (https://github.com/tsantalis/RefactoringMiner)
 
-### Misc
+### Metrics
 
 - lizard: Code complexity analyser (https://github.com/terryyin/lizard)
 - cloc: Line counter (https://github.com/AlDanial/cloc)
-- bandit: Find common security issues in Python code (https://github.com/PyCQA/bandit)
 - radon: Various code metrics for Python code (https://github.com/rubik/radon)
+
+### Code quality
+
 - pmd: An extensible multilanguage static code analyzer (https://github.com/pmd/pmd)
 - flake8: Python code quality (https://github.com/PyCQA/flake8)
+
+### Secutiry
+
+ - bandit: Find common security issues in Python code (https://github.com/PyCQA/bandit)
+
+### More mining tools
+
 - awesome-msr: https://github.com/dspinellis/awesome-msr
